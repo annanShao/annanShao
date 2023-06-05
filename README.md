@@ -2,7 +2,8 @@
   👋 Hey, I'm @San!
 </h1>
 
-- 👀 I’m interested in CS、FE、BE、DL、Web3、Quant...
+- 👀 I’m interested in Full-Stack, Quant, Web3...
+- 🦀 I'm enjoying Rust learning!
 - 🌱 I am studying for a master's degree in Zhejiang University.
 - 📫 ~~I'm interning at ByteDance.~~ before
 
