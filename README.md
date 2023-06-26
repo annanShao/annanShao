@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Full-Stack, Quant, Web3...
 - 🦀 I'm enjoying Rust learning!
-- 🌱 I am studying for a master's degree in Zhejiang University.
+- 🌱 I am studying for a master's degree in ZJU.
 - 📫 ~~I'm interning at ByteDance.~~ before
 
 <div>
