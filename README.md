@@ -2,10 +2,9 @@
   👋 Hey, I'm @San!
 </h1>
 
-- 👀 I’m interested in Full-Stack, Quant, Web3...
-- 🦀 I'm enjoying Rust learning!
-- 🌱 I am studying for a master's degree in ZJU.
-- 📫 ~~I'm interning at ByteDance.~~ before
+- 👀 I’m interested in Quant, Rust, Web3...
+- 🌱 ZJUer
+- 📫 alibaba
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=annanShao&theme=tokyonight&show_icons=true" />
