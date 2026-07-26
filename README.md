@@ -21,8 +21,7 @@
 
 <p align="center">
   React Native on top of multi-model AI recognition, with provider fallback<br/>
-  and hedged retries so it stays fast and never blinks. Built solo.<br/>
-  <sub>Currently in App Store review.</sub>
+  and hedged retries so it stays fast and never blinks. Built solo.
 </p>
 
 <br/>
